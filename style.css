@@ -1,0 +1,17 @@
+body {
+    width: 30%;
+    height: 100%;
+    padding-left: 25%;
+    margin: 10%;
+    background-color: darkslategrey;
+}
+
+p {
+    background-color: darkgoldenrod;
+}
+.parrafos {
+    background-color: blue;
+}
+#texto1 {
+    background-color: red;
+}
